@@ -1,12 +1,17 @@
-# Roadmap-PM-PO-SM
-Este repositorio documenta mi evolución en mi formación como Product Manager, Product Owner y Scrum Master. Aquí encontrarás mi aprendizaje, proyectos prácticos, herramientas utilizadas y reflexiones sobre mi crecimiento en estas áreas.
-📂 ¿Qué encontrarás aquí?
-✅ Resúmenes de cursos, libros y certificaciones 📖
-✅ Estudios de caso y proyectos reales 🎯
-✅ Herramientas y frameworks utilizados 🛠️
-✅ Plantillas y artefactos útiles (user stories, roadmaps, OKRs, etc.) 📋
-✅ Retrospectivas sobre mi avance y aprendizajes 🔄
-🚀 Objetivo:
-Demostrar mi evolución en el mundo del Product Management y Agile, compartir conocimientos y generar valor para la comunidad.
+# 🚀 Roadmap-PM-PO-SM  
 
-📩 ¡Conéctate conmigo! charata.01@gmail.com
+Este repositorio es un **diario de aprendizaje y práctica profesional** en **Product Management, Product Ownership y Scrum Mastery**. Aquí aplico mis conocimientos en gestión de productos, metodologías ágiles y herramientas digitales para demostrar mi evolución profesional.  
+
+### 📂 ¿Qué encontrarás aquí?
+📚 **Resúmenes de cursos y libros**  
+📊 **Casos de estudio y proyectos reales**  
+🛠️ **Herramientas y frameworks usados en la industria**  
+📑 **Plantillas y artefactos útiles (user stories, OKRs, roadmaps, etc.)**  
+🔄 **Retrospectivas y aprendizajes clave**  
+
+### 🎯 Objetivo
+- Aplicar conceptos clave en entornos reales.  
+- Desarrollar documentación y estrategias de gestión de productos.  
+- Mostrar mis habilidades y evolución en el mundo Agile.  
+
+🌎 **¡Conéctate conmigo en charata.01@gmail.com!**  
