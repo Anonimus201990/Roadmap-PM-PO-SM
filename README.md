@@ -24,5 +24,5 @@ Este repositorio no es solo teoría, sino un reflejo práctico de cómo aplico *
 ✅ **Uso de frameworks para mejorar la eficiencia de los equipos**  
 ✅ **Habilidades en documentación y gestión del conocimiento**  
 
-🎯 **Si buscas un Product Manager, PO o Scrum Master que documenta y aplica su aprendizaje, contáctame en [LinkedIn](TU_LINKEDIN_AQUI).**  
+🎯 **Si buscas un Product Manager, PO o Scrum Master que documenta y aplica su aprendizaje, contáctame en [LinkedIn](www.linkedin.com/in/lorena-paola-sartori-177316115).**  
 
